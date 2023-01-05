@@ -6,12 +6,15 @@
 - PostgreSQL
 
 ## Package Management
-- Meven
+- Mven
 
 ## Restful Test tool
 - Postman
 
 ## Command
+**make sure you have postgreSQL service running in the background**
+you can download the postgreSQL [here](https://postgresapp.com/downloads.html)
+
 - java -jar demo-0.0.1-SNAPSHOT.jar
 
 ## port
